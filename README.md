@@ -8,7 +8,7 @@ Audio edition in English read by John Gordon ([@yjohny](https://github.com/yjohn
 
 > * [smart-questions-1.mp3](audio/smart-questions-1.mp3)
 > * [smart-questions-2.mp3](audio/smart-questions-2.mp3)
-> * [smart-questions-3.mp3](audio/smart-questions-3.mp3)
+> * [smart-questions-3.mp3](audio/smart-questions-3.mp3) 
 
 ## Translations
 
